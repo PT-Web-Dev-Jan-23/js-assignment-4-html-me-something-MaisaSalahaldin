@@ -2,6 +2,14 @@
 h1{
     color:brown;
      text-align: center;
+     
+
+ }
+ h2,h3,h4,h5,h6{
+    font-style: normal;
+ }
+ article{
+    font-size: larger;
  }
  #mainHeading{
      color: red;
@@ -29,3 +37,4 @@ h1{
    footer{
      color: blueviolet;
    }
+  
